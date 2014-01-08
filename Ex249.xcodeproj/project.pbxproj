@@ -21,6 +21,9 @@
 		00BE656D187D1CDF001537B8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00BE654F187D1CDE001537B8 /* UIKit.framework */; };
 		00BE6575187D1CDF001537B8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00BE6573187D1CDF001537B8 /* InfoPlist.strings */; };
 		00BE6577187D1CDF001537B8 /* Ex249Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00BE6576187D1CDF001537B8 /* Ex249Tests.m */; };
+		00BE6581187D1D19001537B8 /* i0.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00BE6580187D1D19001537B8 /* i0.jpeg */; };
+		00BE6583187D1E6C001537B8 /* i3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00BE6582187D1E6C001537B8 /* i3.jpeg */; };
+		00BE6585187D1F72001537B8 /* i2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00BE6584187D1F72001537B8 /* i2.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		00BE6572187D1CDF001537B8 /* Ex249Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex249Tests-Info.plist"; sourceTree = "<group>"; };
 		00BE6574187D1CDF001537B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00BE6576187D1CDF001537B8 /* Ex249Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex249Tests.m; sourceTree = "<group>"; };
+		00BE6580187D1D19001537B8 /* i0.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = i0.jpeg; sourceTree = "<group>"; };
+		00BE6582187D1E6C001537B8 /* i3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = i3.jpeg; sourceTree = "<group>"; };
+		00BE6584187D1F72001537B8 /* i2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = i2.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +88,9 @@
 		00BE653F187D1CDE001537B8 = {
 			isa = PBXGroup;
 			children = (
+				00BE6584187D1F72001537B8 /* i2.jpeg */,
+				00BE6582187D1E6C001537B8 /* i3.jpeg */,
+				00BE6580187D1D19001537B8 /* i0.jpeg */,
 				00BE6551187D1CDE001537B8 /* Ex249 */,
 				00BE6570187D1CDF001537B8 /* Ex249Tests */,
 				00BE654A187D1CDE001537B8 /* Frameworks */,
@@ -228,6 +237,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00BE6585187D1F72001537B8 /* i2.jpeg in Resources */,
+				00BE6581187D1D19001537B8 /* i0.jpeg in Resources */,
+				00BE6583187D1E6C001537B8 /* i3.jpeg in Resources */,
 				00BE6564187D1CDF001537B8 /* Images.xcassets in Resources */,
 				00BE6556187D1CDE001537B8 /* InfoPlist.strings in Resources */,
 				00BE655F187D1CDE001537B8 /* Main.storyboard in Resources */,
